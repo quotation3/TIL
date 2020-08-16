@@ -1,1 +1,1 @@
-### 배운것을 정리하는 repositary
+### 배운것을 정리하는 repository
