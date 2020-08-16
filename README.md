@@ -1,5 +1,1 @@
-
-## README는 설명서
-
-## add commit push 순서 기억하자
-
+### 배운것을 정리하는 repositary
